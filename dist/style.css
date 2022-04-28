@@ -1,0 +1,17 @@
+.employee-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.team-heading {
+    background-color: green;
+    color: orange;
+}
