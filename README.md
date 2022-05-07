@@ -6,6 +6,8 @@ with the users input.
 
 ## Image of application
 ![Screen Shot 2022-05-07 at 12 18 02 AM](https://user-images.githubusercontent.com/94779524/167237872-b19b5cd3-b289-41b3-9115-b494249ff39e.png)
+![Screen Shot 2022-05-07 at 12 27 20 AM](https://user-images.githubusercontent.com/94779524/167238180-903f5bf0-279d-4371-85e5-ea4ed5b61be2.png)
+![Screen Shot 2022-05-07 at 12 27 32 AM](https://user-images.githubusercontent.com/94779524/167238182-13147972-afd1-4ed1-8e4b-8f0e62a476b0.png)
 
 
 ## User Story
